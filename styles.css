@@ -15,7 +15,7 @@
 #header p{
     font-size: 30px;
     position: absolute;
-    top: 0px;
+    top: 10px;
 }
 
 #navigation{
@@ -45,3 +45,25 @@
     vertical-align: top;
     
 }
+#inline_ex{
+    display: inline;
+    color: blue;
+}
+#section_head{
+    display: inline;
+    color: cyan;
+    text-decoration: underline;
+}
+#footer{
+    background-color: grey;
+    border-radius: 25px;
+    margin-top:25px;
+    padding:10px;
+}
+
+#footer p{
+    display: inline;
+    font-size: 14px;
+    color: PowderBlue;
+    margin-left: 10px;
+}    
